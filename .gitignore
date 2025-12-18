@@ -1,0 +1,62 @@
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Logs & runtime artifacts
+logs/
+*.log
+*.jsonl
+*.csv
+*.sqlite
+*.db
+
+# Keep reference configs & scripts
+!env.example
+!scripts/sample_run.py
+
+# Coverage & testing
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# CI/CD artifacts
+*.tar.gz
+*.zip
+*.tgz
+*.bak
+
+# Prometheus / metrics dumps
+metrics/
+*.prom
+
+# Docker
+*.pid
+*.sock
+
+# Local config backups
+.env.local
+.env.*.backup
